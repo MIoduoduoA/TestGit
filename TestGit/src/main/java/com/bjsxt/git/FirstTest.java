@@ -5,5 +5,6 @@ public class FirstTest {
 		System.out.println("FirstTest.main()");
 		System.out.println("test TestGitA left");
 		System.out.println("test TestGitB right");
+		System.out.println("test hot_fix 分支");
 	}
 }
